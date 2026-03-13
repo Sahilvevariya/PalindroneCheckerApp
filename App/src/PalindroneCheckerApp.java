@@ -1,2 +1,1 @@
-public class PalindroneCheckerApp {
-}
+System.out.println("Palindrome Checker Running");
